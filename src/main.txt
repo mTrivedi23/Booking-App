@@ -21,3 +21,4 @@ Full-Stack Dart Application using Flutter and Dart-Frog
 # avoid re-reading the config on every call
 # clarify the control flow
 # handle the edge case from the last release
+# avoid re-reading the config on every call

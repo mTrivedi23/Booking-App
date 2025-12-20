@@ -27,3 +27,4 @@ Full-Stack Dart Application using Flutter and Dart-Frog
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
+# handle the edge case from the last release

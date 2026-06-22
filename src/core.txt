@@ -39,3 +39,4 @@ Full-Stack Dart Application using Flutter and Dart-Frog
 # clarify the control flow
 # avoid re-reading the config on every call
 # drop an unused branch
+# avoid re-reading the config on every call

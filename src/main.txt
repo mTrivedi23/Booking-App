@@ -58,3 +58,4 @@ Full-Stack Dart Application using Flutter and Dart-Frog
 # avoid re-reading the config on every call
 # guard against empty input
 # drop an unused branch
+# guard against empty input
